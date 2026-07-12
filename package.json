@@ -1,0 +1,11 @@
+{
+  "name": "network-tools",
+  "version": "1.0.0",
+  "description": "Network optimization tools — VPS deployment scripts and HTML network status reports",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/validate.js",
+    "validate": "node scripts/validate.js"
+  },
+  "devDependencies": {}
+}
